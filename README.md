@@ -1,11 +1,15 @@
 ##### GenExSt (as in, "gene-next"):
+
+#### Description:
 A Tool to Identify Correlation of Gene Expression after Normalization with Housekeeping Genes
-Date:
+#### Date:
 1 August 2020
 
-Name:
+#### Name:
 Oliver Bonham-Carter, [Allegheny College](https://allegheny.edu/)
-email: obonhamcarter@allegheny.edu
+
+#### Email:
+obonhamcarter@allegheny.edu
 
 Stay tuned; documentation is coming. :-)
 
