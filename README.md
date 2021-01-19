@@ -3,13 +3,26 @@
 #### Description:
 A Tool to Identify Correlation of Gene Expression after Normalization with Housekeeping Genes
 #### Date:
-1 August 2020
+19 Jan 2021
 
 #### Name:
 Oliver Bonham-Carter, [Allegheny College](https://allegheny.edu/)
 
 #### Email:
 obonhamcarter@allegheny.edu
+
+![logo](graphics/genExST_logo.png)
+
+
+[![MIT Licence](https://img.shields.io/bower/l/bootstrap)](https://opensource.org/licenses/MIT)
+
+[![Built with Streamlit](https://img.shields.io/badge/built%20with-Streamlit-09a3d5.svg)](https://www.streamlit.io/)
+
+
+[![BLM](https://img.shields.io/badge/BlackLivesMatter-yellow)](https://blacklivesmatter.com/)
+
+GitHub link: https://github.com/developmentAC/genExSt
+
 
 Stay tuned; documentation is coming. :-)
 
