@@ -3,6 +3,7 @@ __pycache__
 *.pyc
 *.csv
 *.DS_Store
+0out/
 
 # Gensim generated files#
 *.gensim

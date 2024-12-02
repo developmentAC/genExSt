@@ -4,13 +4,15 @@ FROM python:3
 
 RUN apt-get update && apt-get -y install git htop vim python3 python3-pip
 
+RUN pip install --upgrade pip
+
 RUN \
 		pip install streamlit &&\
 		pip install pyvis &&\
-#		pip install spacy &&\
+##		pip install spacy &&\
 		pip install pytest &&\
 		pip install plotly_express &&\
-		pip install pip install jsonpickle &&\
+		pip install jsonpickle &&\
 		pip install scikit-learn &&\
 		pip install chart_studio &&\
 		pip install matplotlib
